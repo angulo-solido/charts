@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  promscale:
+  - apiVersion: v2
+    appVersion: 0.10.0
+    created: "2022-03-28T11:48:58.63784235+01:00"
+    description: Promscale Connector deployment
+    digest: 61a9a8d20b5eb877495ceebb778dc1b535b69d38a3b35f254898727dfff94900
+    home: https://github.com/timescale/promscale
+    name: promscale
+    urls:
+    - https://angulo-solido.github.io/charts/promscale-0.10.0.tgz
+    version: 0.10.0
+generated: "2022-03-28T11:48:58.637443614+01:00"
